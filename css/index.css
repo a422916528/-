@@ -9,6 +9,11 @@ body {
     -webkit-tap-highlight-color: transparent;
 }
 
+a,
+img {
+    -webkit-tap-highlight-color: transparent;
+}
+
 ul {
     list-style: none;
     margin: 0;
